@@ -7,7 +7,3 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=vixrino&color=blueviolet&style=flat)
-
-
-
-powershell -ExecutionPolicy Bypass -File scripts\creer_dataset_cerfa.ps1
